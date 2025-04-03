@@ -1,4 +1,4 @@
-![High Level Data Warehouse Architecture drawio](https://github.com/user-attachments/assets/ffe18290-f9bd-46bb-8dde-c83a52a2621f)# Data Warehouse and Analytics Project
+# Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 
